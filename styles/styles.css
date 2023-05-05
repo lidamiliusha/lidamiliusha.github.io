@@ -6,6 +6,7 @@
 
 main {
     max-width: 840px;
+    float: right;
 }
 
 aside {
