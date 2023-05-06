@@ -9,6 +9,16 @@ main {
     float: right;
 }
 
+main img {
+    width: 200px;
+    height: auto;
+    float: right;
+}
+
+main h1 {
+    float: right;
+    color: #000;
+}
 aside {
     margin: 0;
     border: 0;
@@ -26,12 +36,6 @@ aside h2 {
     position: relative;
     top: 47px;
     left: 150px;
-}
-
-main img {
-    width: 200px;
-    height: auto;
-    float: right;
 }
 
 p {
