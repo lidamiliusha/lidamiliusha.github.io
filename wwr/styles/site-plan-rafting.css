@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: : var(--heading-font);
+    font-family: var(--heading-font);
     color: var(--primary-color)
 }
 
@@ -59,6 +59,6 @@ nav a:visited {
 }
 
 nav a:hover {
-    color: var (--nav-hover-link-color);
+    color: var(--nav-hover-link-color);
     background-color: var(--nav-hover-background-color);
 }
