@@ -6,12 +6,12 @@
 
 main {
     max-width: 840px;
+    float: left;
 }
 
 main img {
     width: 200px;
     height: auto;
-    float: right;
 }
 
 main h1 {
