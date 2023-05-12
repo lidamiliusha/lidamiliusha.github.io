@@ -13,11 +13,6 @@ main p {
     max-width: 600px;
 }
 
-main img {
-    width: 200px;
-    height: auto;
-}
-
 main h1 {
     float: right;
     color: #000;
