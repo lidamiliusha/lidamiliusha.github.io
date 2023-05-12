@@ -8,7 +8,9 @@ main {
     max-width: 840px;
     float: left;
 }
-
+main p {
+    max-width: 600px;
+}
 main img {
     width: 200px;
     height: auto;
